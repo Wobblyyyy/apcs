@@ -1,0 +1,12 @@
+a. z % 2 == 1
+b. z <= Math.sqrt(y)
+c. y >= 0
+d. (x % 2) != (y % 2)
+e. y % z == 0
+f. z != 0d
+g. Math.abs(y) > Math.abs(z)
+h. x + z > Math.max(x, z)
+i. String.valueOf(y).length() == 1
+j. z >= 0
+k. x % 2 == 0
+l. Math.abs(y - x) < Math.abs(y - z)
